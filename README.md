@@ -3,9 +3,9 @@
  
 :computer: I'm Back-End Developer!
 
-:house_with_garden: I’m from Santa Catarina - Brazil.
+:house_with_garden: Santa Catarina - Brazil.
 
-:books: I’m currently learning Java.
+:books: Learning Java.
 
 :outbox_tray: 2021 Goals: Find a new job.
 
