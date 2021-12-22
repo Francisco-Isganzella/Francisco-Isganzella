@@ -7,8 +7,6 @@
 
 :books: Learning Java.
 
-:outbox_tray: 2021 Goals: Find a new job.
-
 <div align="center">
   <a href="https://github.com/Francisco-Isganzella">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=francisco-isganzella&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
