@@ -1,7 +1,7 @@
 # Welcome! I'm Francisco!
 
  
-:computer: I'm Back-End Developer!
+:computer: I'm a Back-End Developer!
 
 :house_with_garden: Santa Catarina - Brazil.
 
